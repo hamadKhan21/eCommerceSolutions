@@ -1,0 +1,15 @@
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Infrastructure\bin\Debug\net8.0\eCommerce.Infrastructure.deps.json
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Infrastructure\bin\Debug\net8.0\eCommerce.Infrastructure.dll
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Infrastructure\bin\Debug\net8.0\eCommerce.Infrastructure.pdb
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Infrastructure\bin\Debug\net8.0\eCommerce.Core.dll
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Infrastructure\bin\Debug\net8.0\eCommerce.Core.pdb
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.csproj.AssemblyReference.cache
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.AssemblyInfoInputs.cache
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.AssemblyInfo.cs
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.csproj.CopyComplete
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.dll
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Infrastructure\obj\Debug\net8.0\refint\eCommerce.Infrastructure.dll
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.pdb
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Infrastructure\obj\Debug\net8.0\ref\eCommerce.Infrastructure.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IBsZBRma+IctCgRj/2cjOJpgd0wuXcHmLUmZRoFJ+BUcEyWiUCAc6x3mInH9KUkYA5JCOC1F8wRWtczbh6aICg==",
+  "success": true,
+  "projectFilePath": "D:\\Learnings\\.Net\\eCommerce Project\\My Code\\eCommerceSolutions\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p/YjMtZu69Y3f9xxnS6JUJNFb76Ks05vhc/vIlCBgjFKXt1MIHFs3xhwo1SVQHHjh6n1DeEVIEDxulE2KwWGLQ==",
+  "success": true,
+  "projectFilePath": "D:\\Learnings\\.Net\\eCommerce Project\\My Code\\eCommerceSolutions\\eCommerce.UI\\eCommerce.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
