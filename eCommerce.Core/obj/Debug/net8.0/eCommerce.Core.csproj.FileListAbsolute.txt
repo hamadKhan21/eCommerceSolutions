@@ -1,0 +1,12 @@
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.csproj.AssemblyReference.cache
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.AssemblyInfoInputs.cache
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.AssemblyInfo.cs
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.csproj.CoreCompileInputs.cache
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.deps.json
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.dll
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.pdb
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.dll
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Core\obj\Debug\net8.0\refint\eCommerce.Core.dll
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.pdb
+D:\Learnings\.Net\eCommerce Project\My Code\eCommerceSolutions\eCommerce.Core\obj\Debug\net8.0\ref\eCommerce.Core.dll
